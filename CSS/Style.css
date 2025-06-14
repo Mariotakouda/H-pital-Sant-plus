@@ -95,7 +95,7 @@ header ul li a:hover {
 
 .text-overlay {
   position: absolute;
-  top: 70%;
+  top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
@@ -298,6 +298,7 @@ hr {
   }
 
   header ul {
+    display: flex;
     flex-direction: column;
     gap: 20px;
     margin-top: 20px;
