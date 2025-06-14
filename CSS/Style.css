@@ -286,7 +286,7 @@ hr {
     background-color: #f1efef
 }
 
-@media (max-width: 360px) {
+@media (max-width: 480px) {
   .grid1,
   .grid2_2,
   .grid3 {
