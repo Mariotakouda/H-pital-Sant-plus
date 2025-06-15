@@ -89,7 +89,7 @@ header ul li a:hover {
 
 .image-bg {
   width: 100%;
-  height: 600px;
+  height: 800px;
 
 }
 
@@ -100,7 +100,7 @@ header ul li a:hover {
   transform: translate(-50%, -50%);
   color: white;
   text-align: center;
-  font-size: 32px;
+  font-size: 25px;
   font-weight: bold;
   background-color: rgba(0, 0, 0, 0.5); /* fond semi-transparent */
   padding: 20px;
@@ -330,6 +330,15 @@ hr {
     margin-left: 0;
     flex-direction: column;
     align-items: center;
+  }
+
+  .image-bg {
+    height: 330px;
+    width: 100%;
+  }
+
+  .text-overlay {
+    font-size: 12px;
   }
 }
 
